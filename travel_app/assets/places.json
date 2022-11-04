@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Ephesus Ancient City",
+    "place": "İzmir, Selçuk",
+    "rating": 9.5,
+    "picture": "https://dogadakiler.com/img/B/K/2022/02/208-5051624.webp"
+  },
+  {
+    "name": "Atatürk's Mausoleum",
+    "place": "Ankara, Çankaya",
+    "rating": 8.7,
+    "picture": "https://www.buseterim.com.tr/upload/default/2019/11/9/30agustostrkiye680.jpg"
+  },
+  {
+    "name": "Salda Lake",
+    "place": "Burdur, Yeşilova",
+    "rating": 7.4,
+    "picture": "https://i01.sozcucdn.com/wp-content/uploads/2020/04/14/iecrop/salda_golu_16_9_1586874989.jpg"
+  },
+  {
+    "name": "Butterfly Valley",
+    "place": "Muğla, Fethiye",
+    "rating": 6.3,
+    "picture": "https://kelebeklervadisi.com.tr/wp-content/uploads/2021/02/kelebekler-vadisi-havadan-cekim.jpg"
+  },
+  {
+    "name": "Mount Ararat",
+    "place": "Suveren, Iğdır",
+    "rating": 5.4,
+    "picture": "https://i2.milimaj.com/i/milliyet/75/1200x675/5f6bf47c55427f12e0b37bb7.jpg"
+  },
+  {
+    "name": "Travertines of Pamukkale",
+    "place": "Pamukkale, Denizli",
+    "rating": 8.2,
+    "picture": "https://www.kulturportali.gov.tr/contents/images/20181218112945723_20170505152407842_360_20170309100951302.jpg"
+  },
+  {
+    "name": "Eiffel Tower",
+    "place": "Champ De Mars, Paris",
+    "rating": 9.2,
+    "picture": "https://i.natgeofe.com/k/c41b4f59-181c-4747-ad20-ef69987c8d59/eiffel-tower-night_2x3.jpg"
+  },
+  {
+    "name": "Pisa Tower",
+    "place": "Piazza del Duomo, Pisa",
+    "rating": 6.9,
+    "picture": "https://cdn.britannica.com/88/80588-050-8D944BFE/Leaning-Tower-of-Pisa-Italy.jpg"
+  },
+  {
+    "name": "Christ the Redeemer",
+    "place": "Corcovado, Rio",
+    "rating": 7.5,
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+  }
+]
